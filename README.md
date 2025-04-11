@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **Node.js, Express.js, and Spring Boot**
+- 🌱 I’m currently learning **Spring Boot**
 - 👨‍💻 All of my projects are available at Github(https://github.com/Monudhakad1) <!-- Replace with your actual portfolio link -->
 - 💬 Ask me about **JavaScript, Backend Development, APIs, and DBMS**
 - 📫 How to reach me: **monudhakad055@gmail.com** <!-- Replace with your email -->
