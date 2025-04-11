@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 - 🌱 I’m currently learning **Node.js, Express.js, and Spring Boot**
-- 👨‍💻 All of my projects are available at Github(#) <!-- Replace with your actual portfolio link -->
+- 👨‍💻 All of my projects are available at Github(https://github.com/Monudhakad1) <!-- Replace with your actual portfolio link -->
 - 💬 Ask me about **JavaScript, Backend Development, APIs, and DBMS**
 - 📫 How to reach me: **monudhakad055@gmail.com** <!-- Replace with your email -->
 - ⚡ Fun fact: I love exploring new tech and building side projects and reading books!
@@ -57,10 +57,10 @@
 ## 📫 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="linkedin" /></a>
-  <a href="mailto:your.email@example.com"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
+  <a href="https://www.linkedin.com/in/monu-dhakad-42b525276/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="linkedin" /></a>
+  <a href="mailto:monudhakad055@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
 
 ---
 
-⭐️ From [Monu Dhakad](https://github.com/monu-dhakad)
+⭐️ From [Monu Dhakad](https://github.com/Monudhakad1)
