@@ -42,17 +42,7 @@
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=monu-dhakad&show_icons=true&theme=tokyonight" alt="monu-dhakad" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monu-dhakad&theme=tokyonight" alt="monu-dhakad" />
-</p>
-
----
 
 ## 📫 Connect with me
 
