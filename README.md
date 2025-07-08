@@ -12,7 +12,7 @@
 - 🎯 Passionate Engineering student focused on **Backend Development** and **System Design**
 - 🌱 Currently building scalable applications with **Spring Boot, Spring Security & PostgreSQL**
 - 🔍 Always exploring clean architecture, REST APIs, and real-world project deployments
-- 🧠 Solved **400+ DSA problems on LeetCode** | Regular Contestant | 3⭐ CodeChef (1600+)
+- 🧠 Solved **400+ DSA problems on LeetCode** 
 - 💬 Ask me about **Java, Spring Boot, REST APIs, Databases, and DSA**
 - 📫 Reach me at **[monudhakad055@gmail.com](mailto:monudhakad055@gmail.com)**
 - 🧪 Fun fact: I love debugging and breaking down complex backend systems into clean, testable components
@@ -51,8 +51,8 @@
 ## 🧩 Featured Projects
 
 ### 🔹 [UberReviewServices](https://github.com/Monudhakad1/uber_review_service)  
-> Spring Boot • PostgreSQL • JWT Auth • Clean Architecture  
-Built a scalable REST API for ride booking, driver/passenger management, reviews, and payments using DTOs, services, and repository patterns. Tested endpoints with Postman. Deployed via Railway.
+> Spring Boot • MySQL • Spring Data Jpa • Postman • Clean Architecture  • Adapter Design(DTO)
+Built a scalable REST API for ride booking, driver/passenger management, reviews, using DTOs, services, and repository patterns. Tested endpoints with Postman. Deployed via Railway.
 
 ### 🔹 [Basic CRUD API](https://github.com/Monudhakad1/Foundation_Applications)  
 > Spring Boot • MySql  • Spring Data JPA • JUnit  
@@ -76,8 +76,6 @@ A simple production-ready CRUD REST API demonstrating Create, Read, Update, Dele
   <a href="https://www.linkedin.com/in/monu-dhakad-42b525276/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
   <a href="mailto:monudhakad055@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Monudhakad1"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://monudhakad1.github.io/Portpolio/"><img src="https://img.shields.io/badge/Portfolio-grey?style=flat-square&logo=web&logoColor=white" /></a>
-</p>
 
 ---
 
