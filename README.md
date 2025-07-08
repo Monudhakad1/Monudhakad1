@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 - 🎯 Passionate Engineering student focused on **Backend Development** and **System Design**
-- 🌱 Currently building scalable applications with **Spring Boot, Spring Security & PostgreSQL**
+- 🌱 Currently building scalable applications with **Spring Boot, Spring Security & MySQL**
 - 🔍 Always exploring clean architecture, REST APIs, and real-world project deployments
 - 🧠 Solved **400+ DSA problems on LeetCode** 
 - 💬 Ask me about **Java, Spring Boot, REST APIs, Databases, and DSA**
