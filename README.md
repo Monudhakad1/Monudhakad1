@@ -50,17 +50,13 @@
 
 ## 🧩 Featured Projects
 
-### 🔹 [Airbnb Clone Backend](https://github.com/Monudhakad1/airbnb-clone-springboot)  
+### 🔹 [UberReviewServices](https://github.com/Monudhakad1/uber_review_service)  
 > Spring Boot • PostgreSQL • JWT Auth • Clean Architecture  
-Built a scalable REST API for booking, listings, payments & messaging using DTO, services, and repository patterns. Deployed via Railway.
+Built a scalable REST API for ride booking, driver/passenger management, reviews, and payments using DTOs, services, and repository patterns. Tested endpoints with Postman. Deployed via Railway.
 
-### 🔹 [Task Manager API](https://github.com/Monudhakad1/task-manager-api)  
-> Spring Boot • MapStruct • Bean Validation • JUnit  
-A production-grade CRUD task tracker API with unit/integration tests and layered architecture.
-
-### 🔹 [E-commerce Backend (WIP)](https://github.com/Monudhakad1/ecommerce-backend)  
-> Spring Boot • Exception Handling • Docker  
-Under development: features like product catalog, order placement, and payment simulation.
+### 🔹 [Basic CRUD API](https://github.com/Monudhakad1/Foundation_Applications)  
+> Spring Boot • MySql  • Spring Data JPA • JUnit  
+A simple production-ready CRUD REST API demonstrating Create, Read, Update, Delete operations. Includes unit/integration tests and Postman collection for testing all endpoints.
 
 ---
 
