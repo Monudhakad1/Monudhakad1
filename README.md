@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 * 🎓 Engineering student at **IET DAVV, Indore**
 * 💡 Passionate about **Backend Development**, **System Design**, and **Scalable REST APIs**
