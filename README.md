@@ -96,11 +96,12 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Monudhakad1&show_icons=true&theme=tokyonight" alt="Monu's GitHub stats" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Monudhakad1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Monu's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Monudhakad1&theme=tokyonight" alt="GitHub Streak" />
-</p>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Monudhakad1&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Streak" />
+</div>
 
 ---
 
