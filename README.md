@@ -65,11 +65,12 @@
 
 ## 🌟 Featured Projects
 
-### 🏥 [ManageHospitalEasy](https://github.com/Monudhakad1/ManageHospitalEasy)
-**Tech:** Spring Boot, Spring Security, MySQL, JPA
-> A comprehensive backend for hospital management featuring **Role-Based Access Control (RBAC)** for doctors and patients. 
-> * Designed using service-layer abstraction and Repository pattern.
-> * Independently handled the entire backend architecture.
+### 📝 [NewTracker - Distributed Task Engine](https://github.com/Monudhakad1/NewTracker)
+**Tech:** Spring Boot, Spring Security, Redis, Docker, MySQL
+> A high-throughput REST API engineered to handle **concurrent user requests** with optimized latency.
+> * Implemented **Redis caching** to reduce database read load by **~40%**, significantly improving API response times.
+> * Containerized via **Docker** to ensure consistent deployment environments and scalable infrastructure.
+> * Secured endpoints using **Spring Security** best practices, ensuring data integrity under high traffic.
 
 ### 🚗 [Uber Review Services](https://github.com/Monudhakad1/uber_review_service)
 **Tech:** Spring Boot, REST API, DTOs, MySQL
