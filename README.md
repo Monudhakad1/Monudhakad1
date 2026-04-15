@@ -1,110 +1,81 @@
-# Hi, I'm Monu Dhakad
+# Monu Dhakad
 
-Backend-focused engineering student at **IET DAVV, Indore**.
-I mainly work with **Java and Spring Boot**, building backend services and REST APIs while practicing data structures and system design.
+Backend-focused Engineering Student at **IET DAVV, Indore**, specializing in **Java, Spring Boot, and Microservices Architecture**.
 
 ---
 
 ## About Me
 
-* Engineering student at **IET DAVV, Indore**
-* Focused on **backend development using Java and Spring Boot**
-* Regularly practice **DSA and problem solving**
-* Interested in **system design, authentication systems, and scalable backend architecture**
+- Backend developer focused on building **scalable and maintainable systems**
+- Hands-on experience with **monolithic and microservices architectures**
+- Strong foundation in **Data Structures & Algorithms (700+ problems solved)**
+- Interested in **system design, distributed systems, and backend optimization**
 
-Contact: **[monudhakad055@gmail.com](mailto:monudhakad055@gmail.com)**
+Contact: monudhakad055@gmail.com
 
 ---
 
 ## Tech Stack
 
-**Languages**
+**Languages**  
+Java, C++, SQL, JavaScript  
 
-Java
-C++
-SQL
-JavaScript
+**Backend**  
+Spring Boot, Spring Security, Spring Data JPA, Hibernate, REST APIs  
 
-**Backend**
+**Microservices**  
+Eureka, API Gateway, Config Server, OpenFeign, Resilience4j  
 
-Spring Boot
-Spring Security
-Spring Data JPA
-Hibernate
-MapStruct
+**Databases & Caching**  
+MySQL, MongoDB, Redis  
 
-**Databases**
-
-MySQL
-MongoDB
-Redis
-H2
-
-**Tools**
-
-Docker
-Git
-Postman
-JUnit
-Mockito
+**Tools & DevOps**  
+Docker, Git, Postman, JUnit, Mockito  
 
 ---
 
-# Projects
+## Projects
 
-## AuthNexus — Authentication Service
+### Microservices-Based Distributed Hotel Rating System
+**Tech:** Spring Boot, Spring Cloud, OpenFeign, Resilience4j, JMeter  
 
-Spring Boot, Spring Security, OAuth2, JWT, React
-
-Authentication service that supports multiple login methods.
-
-* Implemented **JWT-based authentication** with access and refresh tokens
-* Added **OAuth2 login using Google and GitHub**
-* Built REST APIs for authentication and token management
-* Integrated a simple **React frontend** for login and authentication flows
-* Structured the backend using controller, service, and repository layers
+- Built a distributed microservices system with **User, Hotel, and Rating services**  
+- Implemented **service discovery (Eureka)** and **API Gateway** for routing  
+- Enabled inter-service communication using **OpenFeign**  
+- Applied **Resilience4j** for circuit breaker and rate limiting  
+- Integrated **Actuator for monitoring** and performed load testing using JMeter  
 
 ---
 
-## NewTracker — Task Management Backend
+### DineRate — Restaurant Review Platform
+**Tech:** Spring Boot, Elasticsearch, Keycloak, Docker  
 
-Spring Boot, Spring Security, Redis, MySQL, Docker
-
-Backend service for managing tasks with authentication and caching.
-
-* Implemented authentication using **Spring Security**
-* Used **Redis caching** for frequently accessed data
-* Containerized the application using **Docker**
-* Designed REST APIs for task creation, updates, and tracking
+- Developed REST APIs with **role-based authentication**  
+- Implemented **search, filtering, and pagination** using Elasticsearch  
+- Containerized application using Docker  
 
 ---
 
-## DineRate — Restaurant Review Service
+### AuthNexus — Authentication System
+**Tech:** Spring Boot, Spring Security, JWT, OAuth2  
 
-Spring Boot, MySQL
-
-Backend API for managing restaurant ratings and reviews.
-
-* Designed APIs for users, restaurants, and reviews
-* Implemented structured service and repository layers
-* Used DTOs to separate API responses from internal models
-* Tested endpoints using **Postman**
+- Built authentication system with **JWT and OAuth2 (Google, GitHub)**  
+- Implemented secure user management APIs  
+- Designed clean layered backend architecture  
 
 ---
 
-## Currently Learning
+## Currently Focused On
 
-* Spring Boot architecture and backend system design
-* Redis caching strategies
-* Containerizing applications with Docker
-* Fundamentals of microservices
+- Advanced **Spring Boot & Microservices**
+- **System Design and Low-Level Design (LLD)**
+- **Docker and Deployment**
+- Writing **production-ready backend systems**
 
 ---
 
 ## Links
 
-LinkedIn
-https://www.linkedin.com/in/monu-dhakad-42b525276/
-
-Email
-[monudhakad055@gmail.com](mailto:monudhakad055@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/monu-dhakad-42b525276  
+- GitHub: https://github.com/Monudhakad1  
+- Email: monudhakad055@gmail.com
