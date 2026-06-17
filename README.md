@@ -37,7 +37,7 @@
 
 ## 🚀 Projects
 
-### 🛒 [ShopSphere](https://github.com/Stopsphere) — Distributed E-Commerce Backend
+### 🛒 [ShopSphere](https://github.com/StopSphere/ShopSphere-Main) — Distributed E-Commerce Backend
 
 ```
 Client → API Gateway → User Service
@@ -58,7 +58,7 @@ Client → API Gateway → User Service
 
 ---
 
-### 🤖 [Agentic AI-CodePilot](https://github.com/monudhakad1) — AI Code Review Agent *(Ongoing)*
+### 🤖 [Agentic AI-CodePilot](https://github.com/Monudhakad1/AI-Code-Reviewer) — AI Code Review Agent *(Ongoing)*
 
 Autonomous code review agent that analyzes PRs and detects bugs, code smells, and SOLID violations using LLMs.
 
@@ -70,7 +70,7 @@ Autonomous code review agent that analyzes PRs and detects bugs, code smells, an
 
 ---
 
-### 🔐 [AuthNexus](https://github.com/monudhakad1) — Auth & User Management System
+### 🔐 [AuthNexus](https://github.com/Monudhakad1/AuthNexus-backend) — Auth & User Management System
 
 - JWT (Access + Refresh tokens) + OAuth2 (Google, GitHub)
 - Role-Based Access Control + Swagger/OpenAPI docs
