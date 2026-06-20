@@ -1,7 +1,7 @@
 # Hey, I'm Monu Dhakad 👋
 
 **Backend Developer** • Java & Spring Boot • Microservices • AI Agents  
-📍 IET DAVV, Indore | B.E. Electronics & Telecommunication (Final Year)
+📍 IET DAVV, Indore | B.Tech | (Final Year)
 
 ---
 
